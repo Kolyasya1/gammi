@@ -1,0 +1,26 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+	box-sizing: inherit;
+}
+
+body {
+	background-color: green;
+}
+
+.box {
+	font-size: 12px;
+	margin: 0;
+}
+
+.test {
+	padding-left: 15px;
+	text-align: center;
+	align-items: center;
+	background-color: yellow;
+	
+}
